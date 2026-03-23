@@ -1,0 +1,5 @@
+1;Juan Daniel Cacao;25;Ingeniería de Sistemas
+2;María Fernanda Gómez;22;Administración de Empresas
+3;Carlos Alberto Rodríguez;28;Medicina
+4;Laura Sofía Martínez;24;Arquitectura
+5;Andrés Felipe Torres;27;Derecho
