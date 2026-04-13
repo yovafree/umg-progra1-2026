@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.4.11612.150 stable
+VisualStudioVersion = 18.4.11612.150
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Semana 2", "Semana 2", "{7D894C9F-5436-F01D-73AA-2E91C930A238}"
 EndProject
@@ -25,6 +25,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejoArchivos", "ManejoArchivos\ManejoArchivos.csproj", "{6735AB4B-D55D-4560-9161-04AB6E6C89C4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejoArchivos2", "ManejoArchivos2\ManejoArchivos2.csproj", "{3D082631-D294-46E7-A13D-60105353686B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Semana 8", "Semana 8", "{A2F86AA9-E5B6-47C9-9C60-5CF2A6F935AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubleShort", "BubleShort\BubleShort.csproj", "{C8EFEF11-ADB9-4D40-80B6-35AEA24CE5F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Semana 9", "Semana 9", "{1774D31A-1416-4CCD-B067-FD7A435ADF3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{510D2650-702D-4057-8BAC-F5A60DEC11B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -60,6 +68,14 @@ Global
 		{3D082631-D294-46E7-A13D-60105353686B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D082631-D294-46E7-A13D-60105353686B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D082631-D294-46E7-A13D-60105353686B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8EFEF11-ADB9-4D40-80B6-35AEA24CE5F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8EFEF11-ADB9-4D40-80B6-35AEA24CE5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8EFEF11-ADB9-4D40-80B6-35AEA24CE5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8EFEF11-ADB9-4D40-80B6-35AEA24CE5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510D2650-702D-4057-8BAC-F5A60DEC11B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510D2650-702D-4057-8BAC-F5A60DEC11B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510D2650-702D-4057-8BAC-F5A60DEC11B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510D2650-702D-4057-8BAC-F5A60DEC11B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -72,6 +88,8 @@ Global
 		{073B08EE-B441-4868-BF2E-B1A16092C51D} = {DB76643F-BDF5-4315-A288-86DEDB52B0D2}
 		{6735AB4B-D55D-4560-9161-04AB6E6C89C4} = {F0352456-A8AF-421A-9465-C6FAF0382269}
 		{3D082631-D294-46E7-A13D-60105353686B} = {F0352456-A8AF-421A-9465-C6FAF0382269}
+		{C8EFEF11-ADB9-4D40-80B6-35AEA24CE5F6} = {A2F86AA9-E5B6-47C9-9C60-5CF2A6F935AC}
+		{510D2650-702D-4057-8BAC-F5A60DEC11B0} = {1774D31A-1416-4CCD-B067-FD7A435ADF3F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C5675911-811F-4C1D-8F09-4241CB2FFB7A}
